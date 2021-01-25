@@ -1,5 +1,5 @@
 # Tux3D
-A 3D model of Tux, the Linux mascot.
+A 3D model of Tux, the Linux mascot. [Hot and ready.](Tux_Penguin.stl)
 
 ![test](Picture.png)
 
